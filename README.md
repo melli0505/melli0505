@@ -1,12 +1,48 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DainKang%20&render&fontSize=90&fontAlign=70)
 
-## 💻 Tech Stack 💻
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)	![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+- 🌱 I’m currently learning Kotlin / Android and Machine Learning
+- 📖 I'm majoring in computer electronic system engineering at Hankuk University of Foreign studies
+- ⚡ I love writing, listening to pop songs, and playing games
 
-## 🌙About ME🌙
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?url=dnai-deny.tistory.com?style=for-the-badge&logo=blogger&logoColor=white) ![Gmail](https://img.shields.io/badge/dmelli0505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?url=www.instgram.com/dnai_ianb?style=for-the-badge&logo=Instagram&logoColor=white)
+<h3 align="center">💻 Tech Stack 💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/></a>&nbsp 
+  <br/>
+  <img src="https://img.shields.io/badge/React-232023?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp 
+</p>
+
+<br>
+
+<h3 align="center">🌙About ME🌙</h3>
+
+<p align="center">
+  <h5 align="center">📖Blog & Notion📖</h4>
+  <p align="center">
+    <a href="https://dnai-deny.tistory.com">
+      <img src="https://img.shields.io/badge/Dnai's Blog-FF9A00?style=for-the-badge&logo=Bloglovin&logoColor=white"/>&nbsp 
+    </a>&nbsp 
+    <a href="https://dnaideny.notion.site/Dnai-Dain-8e8eb20d1e1344faaf38a4104d95c056">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+    </a>
+  </p>&nbsp 
+  <br>
+  <h5 align="center">📫How to reach me📫</h4>
+  <p align="center">
+    <img src="https://img.shields.io/badge/dmelli0505@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp
+    <a href="https://www.instagram.com/dnai_ianb/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>&nbsp 
+  </p>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melli0505&&show_icons=true&theme=blueberry)
+
+
+
 
 
 
@@ -16,11 +52,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
