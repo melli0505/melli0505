@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DainKang%20&render&fontSize=90&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kang%Dain&fontSize=90)
 
 - 🌱 I’m currently learning Kotlin / Android and Machine Learning
 - 📖 I'm majoring in computer electronic system engineering at Hankuk University of Foreign studies
@@ -30,7 +30,7 @@
     </a>
   </p>&nbsp 
   <br>
-  <h5 align="center">📫How to reach me📫</h4>
+  <h4 align="center">📫How to reach me📫</h4>
   <p align="center">
     <img src="https://img.shields.io/badge/dmelli0505@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp
     <a href="https://www.instagram.com/dnai_ianb/">
