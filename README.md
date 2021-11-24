@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kang%Dain&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kang Dain&fontSize=90)
 
 - 🌱 I’m currently learning Kotlin / Android and Machine Learning
 - 📖 I'm majoring in computer electronic system engineering at Hankuk University of Foreign studies
