@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melli0505&&show_icons=true&theme=blueberry)]
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melli0505&&show_icons=true&theme=blueberry)
 </p>
 
 
