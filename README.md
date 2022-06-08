@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KangDain&fontSize=90)
 
-- 🌱 I’m currently learning Kotlin / Android and Machine Learning
+- 🌱 I’m currently learning Cloud and Machine Learning
 - 📖 I'm majoring in computer electronic system engineering at Hankuk University of Foreign studies
 - ⚡ I love writing, listening to pop songs, and playing games
 
