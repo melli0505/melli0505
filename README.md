@@ -7,10 +7,10 @@
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Dart&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/></a>&nbsp 
   <br/>
-  <img src="https://img.shields.io/badge/React-232023?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-232023?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp 
 </p>
