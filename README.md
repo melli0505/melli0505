@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KangDain&fontSize=90)
 
-- 🌱 I’m currently learning Cloud and Machine Learning
+- 🌱 I’m learning Docker, Kubernetes
+- 🍒 I am working as a Deep Learning engineer Intern
 - 📖 I'm majoring in computer electronic system engineering at Hankuk University of Foreign studies
 - ⚡ I love writing, listening to pop songs, and playing games
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white"/></a>&nbsp 
   <br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>&nbsp 
@@ -33,9 +33,6 @@
   <h4 align="center">📫How to reach me📫</h4>
   <p align="center">
     <img src="https://img.shields.io/badge/dmelli0505@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp
-    <a href="https://www.instagram.com/dnai_ianb/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>&nbsp 
   </p>
 </p>
 
