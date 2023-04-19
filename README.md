@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KangDain&fontSize=90)
 
-- 🌱 I’m learning Docker, Kubernetes
-- 🍒 I am working as a Deep Learning engineer Intern
-- 📖 I'm majoring in computer electronic system engineering at Hankuk University of Foreign studies
+- 🌱 I’m learning FastAPI, Spring, Data Engineering
+- 🍒 I am working as a IoT / ML Engineer
+- 📖 I'm majoring in computer electronic system engineering
 - ⚡ I love writing, listening to pop songs, and playing games
 
 <h3 align="center">💻 Tech Stack 💻</h3>
