@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KangDain&fontSize=90)
 
-- 🌱 I’m learning FastAPI, Spring, Data Engineering
+- 🌱 I’m learning Spring, Data Engineering, ELK Stacks, IoT programming and network
 - 🍒 I am working as a IoT / ML Engineer
-- 📖 I'm majoring in computer electronic system engineering
+- 📖 I majored in computer electronic system engineering
 - ⚡ I love writing, listening to pop songs, and playing games
 
 <h3 align="center">💻 Tech Stack 💻</h3>
@@ -35,11 +35,6 @@
     <img src="https://img.shields.io/badge/dmelli0505@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp
   </p>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melli0505&&show_icons=true&theme=blueberry)
-
-
-
 
 
 
