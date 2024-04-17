@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KangDain&fontSize=90)
 
-- 🌱 I’m learning Spring, Data Engineering, ELK Stacks, IoT programming and network
+- 🌱 I’m Studying Kubernetes, Data Engineering, Reinforcement Learning, IoT programming and network
 - 🍒 I am working as a IoT / ML Engineer
-  - 💪 Currently working on Time Series Fault diagnosis / Reinforcement Learning based energy control project 
+  - 💪 Currently working on Deploying Web on GKE / Reinforcement Learning based energy control project 
 - 📖 I majored in computer electronic system engineering
 - ⚡ I love writing, listening to pop songs, and playing games
 
