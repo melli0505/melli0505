@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KangDain&fontSize=90)
 
-- 🌱 I’m Studying Kubernetes, Data Engineering, Reinforcement Learning, IoT programming and network
-- 🍒 I am working as a IoT / ML / Web Engineer
-  - 💪 Currently working on Deploying Web on GKE / Reinforcement Learning based energy control project
+- 🌱 I’m Studying Kubernetes, Data Engineering, Reinforcement Learning, Embeded programming and network
+- 🍒 I am working as a Embeded / ML / Web Engineer
+  - 💪 Currently working on On-Device AI, Emebed Programming
 - 📖 I majored in computer electronic system engineering
-- ⚡ I love writing, listening to pop songs, and playing games
+- ⚡ I love writing, listening to pop songs, and playing RPG games
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
