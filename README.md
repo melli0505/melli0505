@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KangDain&fontSize=90)
 
-- 🌱 I’m Studying Kubernetes, Data Engineering, Reinforcement Learning, Embeded programming and network
-- 🍒 I am working as a Embeded / ML / Web Engineer
-  - 💪 Currently working on On-Device AI, Emebed Programming
+- 🌱 I’m Studying IoT, Firmware Development
+- 🍒 I am working as a Embeded / Firmware Engineer
+  - 💪 Currently working on On-Device AI, Firmware Engineering
 - 📖 I majored in computer electronic system engineering
 - ⚡ I love writing, listening to pop songs, and playing RPG games
 
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-dd6c33?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/fastapi-55bbcc?style=for-the-badge&logo=FastAPI&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/postgresql-1166aa?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>&nbsp 
